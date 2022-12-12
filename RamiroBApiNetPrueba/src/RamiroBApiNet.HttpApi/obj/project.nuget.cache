@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LhI2Vhy39AQvzBEmFzkaqQ6xHFqq+gq5jwJkBebecGazQ5OfwGSXOPW8T9qZ3Q78M5heDO0NY4IqF0bLDaVuwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\ESCRITORIO\\Banco Pichincha Documentos\\Prueba Semana 4 Netcore\\Correccion Prueba\\RamiroBApiNetPrueba\\src\\RamiroBApiNet.HttpApi\\RamiroBApiNet.HttpApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
